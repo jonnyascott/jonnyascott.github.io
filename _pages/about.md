@@ -21,3 +21,14 @@ Machine Learning PhD student at <a href='https://ist.ac.at/home'>Institute of Sc
 I work on Federated Learning under the supervision of <a href='https://cvml.ista.ac.at/'> Professor Christoph Lampert</a>.
 
 Google Scholar, Github, CV.
+
+---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: example_pdf.pdf
+toc:
+  sidebar: left
+---
