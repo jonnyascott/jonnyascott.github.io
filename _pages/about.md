@@ -20,5 +20,5 @@ Machine Learning PhD student at <a href='https://ist.ac.at/home'>Institute of Sc
 
 I work on Federated Learning under the supervision of <a href='https://cvml.ista.ac.at/'> Professor Christoph Lampert</a>.
 
-<a href='https://jonnyascott.github.io/assets/pdf/CV_JScott.pdf'>CV</a>,, <a href='https://scholar.google.com/citations?view_op=list_works&hl=en&user=NDh5MzgAAAAJ'>Google Scholar</a>, <a href='https://github.com/jonnyascott'>Github</a>.
+<a href='https://jonnyascott.github.io/assets/pdf/CV_JScott.pdf'>CV</a>, <a href='https://scholar.google.com/citations?view_op=list_works&hl=en&user=NDh5MzgAAAAJ'>Google Scholar</a>, <a href='https://github.com/jonnyascott'>Github</a>.
 
