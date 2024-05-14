@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-#subtitle:  Am Campus 1, 3400 Klosterneuburg.
 
 profile:
   align: right
